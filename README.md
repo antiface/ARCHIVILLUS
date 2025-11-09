@@ -1,6 +1,6 @@
 # ARCHIVILLUS
 
-![ARCHIVILLUS](https://historiotheque.wordpress.com/wp-content/uploads/2025/11/archivillus.png)
+![ARCHIVILLUS](https://historiotheque.wordpress.com/wp-content/uploads/2025/11/archivillus_002-1.png)
 
 ## Executive summary
 
