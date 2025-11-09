@@ -214,6 +214,8 @@ __Part V — Final reflections and provocations (objective, connective)__
 
 - - - - - - -
 
+![ARCHIVILLUS](https://historiotheque.wordpress.com/wp-content/uploads/2025/11/archivillus_003.png)
+
 # ANOTHER VERSION OF THE CONCEPT OF ARCHIVILLUS:
 
 # **THE ARCHIVILLUS FRAGMENTS**  
