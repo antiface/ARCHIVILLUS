@@ -1,6 +1,8 @@
 # ARCHIVILLUS
 
-Executive summary
+![ARCHIVILLUS](https://historiotheque.wordpress.com/wp-content/uploads/2025/11/archivillus.png)
+
+## Executive summary
 
 Archivillus — the idea of a supermassive, continuously updated archive of all failures, errors, threats, conflicts and crises — can be read simultaneously as (a) a practical infrastructural project (a global, redundant ledger-like archive whose aim is to locate, classify, and enable remediation of systemic failures) and (b) a philosophical object: a mirror that reveals historiopathies, the patterns by which societies fail, repeat failures, and ossify into deterministic prison-states.
 
